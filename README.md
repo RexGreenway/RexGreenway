@@ -1,15 +1,18 @@
 ![Header](./RexGreenwayHeader.png)
 
 <div align="center">
+  <!-- Languages -->
   <div>
-    <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=black">
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=black">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black">
-    <!-- Non-breaking Space -->
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- Frameworks -->
+  </div>
+
+  <br />
+  
+  <!-- Frameworks -->
+  <div>
     <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=black">
     <img src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=black">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black">
