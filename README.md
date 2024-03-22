@@ -1,5 +1,10 @@
 ![Header](./RexGreenwayHeader.png)
 
+### Contact Details:
+Website: [rexgreenway.github.io](https://rexgreenway.github.io)
+
+Email: rexgreenway@gmail.com
+
 <!--
 **RexGreenway/RexGreenway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
