@@ -28,5 +28,5 @@
 <div align="center">
   <b>Website:<b/> <a href="https://rexgreenway.github.io">rexgreenway.github.io</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Email:<b/> <a href="mailto: rexgreenway@proton.me">rexgreenway@proton.com</a>
+  <b>Email:<b/> <a href="mailto: rexgreenway@proton.me">rexgreenway@proton.me</a>
 </div>
